@@ -1,0 +1,28 @@
+generated: '2026-07-19'
+method: searched
+probe: true
+source: https://trust.honehq.com/
+url: https://trust.honehq.com/
+platform: SafeBase
+certifications:
+- SOC 2 Type 2
+- NIST AI RMF
+compliance:
+- GDPR
+security_contact: security-team@honehq.com
+notes: >-
+  Hone Trust Center (SafeBase). Publishes SOC 2 Type 2 and NIST AI RMF posture,
+  with sections on compliance, product security, data security, access control,
+  and AI governance. Customer and employee conversation data is not used to train
+  AI models; GDPR-aligned data protection validated via the SOC 2 Type II audit.
+  No public bug-bounty or responsible-disclosure program is advertised.
+evidence:
+- source: https://trust.honehq.com/
+  keywords:
+  - soc 2 type 2
+  - nist ai rmf
+  - trust center
+  - safebase
+- source: https://honehq.com/resources/blog/hone-soc-2/
+  keywords:
+  - soc 2 type 2
