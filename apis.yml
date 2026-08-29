@@ -7,6 +7,17 @@ description: 'Hone is an employee development platform that combines live, exper
   and people skills. The platform integrates with major HRIS and LMS systems to sync learners and report on
   program impact, and has reached millions of employees across 58+ countries. Backed by F-Prime Capital,
   Cowboy Ventures, Slack Fund, and others. Hone does not currently publish a public developer API.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
