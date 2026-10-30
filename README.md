@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Hone is a company surfaced as a portfolio company of cowboy-ventures and added to the API Evangelist network as a stub for enrichment. Sector: future-of-work. This profile is a lead awaiting the enrichment pipeline.
+Hone is an employee development platform that combines live, expert-led virtual workshops with AI-powered coaching to drive behavior change and continuous learning across an organization. Founded in 2018 and headquartered in San Francisco and New York City, Hone delivers 100+ live classes, AI lessons and roleplays, 1:1 and group coaching, and on-demand membership learning focused on leadership, management, and people skills. The platform integrates with major HRIS and LMS systems to sync learners and report on program impact, and has reached millions of employees across 58+ countries. Backed by F-Prime Capital, Cowboy Ventures, Slack Fund, and others. Hone does not currently publish a public developer API.
 
-Backed by: cowboy-ventures
+**Areas:** Company · Future Of Work · Leadership Development · Corporate Training · Learning and Development · Employee Development · Coaching · HR Technology · AI Coaching
+
+## Hone on APIs.io
+
+Everything profiled for Hone is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hone/](https://apis.io/providers/hone/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hone Domain Security](https://apis.io/security/hone/hone-domain-security/)
+- [Hone Trust Center](https://apis.io/security/hone/hone-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://honehq.com)
+- [Documentation](https://honehq.com/product/)
+- [Pricing](https://honehq.com/pricing/)
+- [Sign up](https://honehq.com/demo/)
+- [Support](https://admin-support.honehq.com/hc/en-us)
+- [Blog](https://honehq.com/stories/)
+- [Compliance](https://trust.honehq.com)
+- [Terms of service](https://honehq.com/terms/)
+- [Privacy policy](https://honehq.com/privacy/)
+- [GitHub](https://github.com/honehq)
+- [Status](https://status.honehq.com)
+
+## API Evangelist rating
+
+**Kin Score 23.9** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 60.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hone/](https://apis.io/providers/hone/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hone: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hone/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
